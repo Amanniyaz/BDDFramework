@@ -1,0 +1,10 @@
+/Users/mahri/eclipse-workspace/way2automation/src/test/java/steps/SeacrhCarsSteps.java
+/Users/mahri/eclipse-workspace/way2automation/src/test/java/pages/actions/CarsSearchPageActions.java
+/Users/mahri/eclipse-workspace/way2automation/src/test/java/pages/actions/CarsGuideHomePageActions.java
+/Users/mahri/eclipse-workspace/way2automation/src/test/java/utils/SeleniumDriver.java
+/Users/mahri/eclipse-workspace/way2automation/src/test/java/runner/TestRunner.java
+/Users/mahri/eclipse-workspace/way2automation/src/test/java/steps/BeforeActions.java
+/Users/mahri/eclipse-workspace/way2automation/src/test/java/steps/AfterActions.java
+/Users/mahri/eclipse-workspace/way2automation/src/test/java/pages/locators/CarsGuideHomePageLocators.java
+/Users/mahri/eclipse-workspace/way2automation/src/test/java/pages/locators/UsedCarsSearchPageLocators.java
+/Users/mahri/eclipse-workspace/way2automation/src/test/java/pages/locators/SearchCarsPageLocators.java
